@@ -1,2 +1,1 @@
-new branch created for rebasing
-made some changes which should be reverted
+new branch created for rebasing, made some changes in the branch which is not in master
